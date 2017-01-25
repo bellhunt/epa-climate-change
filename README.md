@@ -9,6 +9,8 @@ People are already working to download all the information there. This repositor
 If anyone knows of a similar project, please link to it here.
 
 - [A good long term solution](https://www.kickstarter.com/projects/592742410/azimuth-climate-data-backup-project?ref=user_menu) (backing up all the climate databases)
+- [University of Toronto Data Refuge Project, international consolidation] (https://technoscienceunit.wordpress.com/2016/12/04/guerrilla-archiving-event-saving-environmental-data-from-trump/)
+- [UPenn Data Refuge Network](http://www.ppehlab.org/)
 
 And now for the content...
 
